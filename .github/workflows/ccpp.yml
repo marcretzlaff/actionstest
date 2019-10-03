@@ -17,4 +17,6 @@ jobs:
     - uses: actions/checkout@v1
     - name: make
       run: make
+    - name: Execute
+      run: geo
 
