@@ -24,5 +24,6 @@ linie1.Zeichne();
 sK.Zeichne();
 quadrat.Zeichne();
 
+//Kommentar um was zu probieren
 return 0;
 }
